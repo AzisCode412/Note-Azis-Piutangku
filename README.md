@@ -82,11 +82,13 @@ GitHub: Kirim pesan melalui profil atau ajukan Request Access.
 3. Bebas konsultasi/support jika ada kendala instalasi.
 4. Gratis update fitur di masa mendatang.
 
-
-Copyright © 2026 Zen Al Azis. All rights reserved.
-
+---
 
 ### Catatan Penting:
 1. **Path Gambar:** Pastikan folder di GitHub kamu adalah `assets/img/` dan nama filenya menggunakan spasi (sesuai kode `%20` di atas) atau ganti nama filenya di folder menjadi `piutangku-1.jpeg` agar lebih aman.
 2. **Logo:** Jangan lupa pastikan file `logo.png` ada di folder `assets` supaya banner paling atas tidak pecah.
 3. **About Section:** Ingat untuk mengisi *Topics* di GitHub (seperti: `flutter`, `sqlite`, `mobile-app`) agar orang lebih mudah menemukan project ini.
+
+
+
+Copyright © 2026 Zen Al Azis. All rights reserved.
