@@ -22,7 +22,7 @@ Aplikasi ini dilengkapi dengan fitur esensial yang sangat dibutuhkan untuk penge
 
 | Splash Screen | Form Input | List Data |
 |---|---|---|
-| <img src="assets/piutangku%201.jpeg" width="200"> | <img src="assets/piutangku%202.jpeg" width="200"> | <img src="assets/piutangku%203.jpeg" width="200"> |
+| <img src="assets/piutangku%201.jpeg"> | <img src="assets/piutangku%202.jpeg"> | <img src="assets/piutangku%203.jpeg"> |
 
 ---
 
