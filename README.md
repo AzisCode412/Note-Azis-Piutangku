@@ -84,6 +84,11 @@ GitHub: Kirim pesan melalui profil atau ajukan Request Access.
 
 ---
 
+## 🤝 Kontribusi & Lisensi
+Saya terbuka untuk masukan atau laporan bug melalui fitur Issues di GitHub untuk penyempurnaan aplikasi.
+
+---
+
 ### Catatan Penting:
 1. **Path Gambar:** Pastikan folder di GitHub kamu adalah `assets/img/` dan nama filenya menggunakan spasi (sesuai kode `%20` di atas) atau ganti nama filenya di folder menjadi `piutangku-1.jpeg` agar lebih aman.
 2. **Logo:** Jangan lupa pastikan file `logo.png` ada di folder `assets` supaya banner paling atas tidak pecah.
