@@ -69,7 +69,9 @@ Bagi pengembang atau pebisnis, source code ini adalah investasi tepat:
 
 Repositori ini disediakan untuk tujuan dokumentasi dan demo fitur. Untuk mendapatkan Source Code Lengkap (Full Access) yang siap dipublikasikan ke Play Store, silakan hubungi saya melalui jalur berikut:
 
-Instagram: @teman_tugasmu_ (Respon Cepat)
+* **Instagram:** [@zenalazis.dev](https://instagram.com/zenalazis.dev) (Respon Cepat)
+* **Portofolio Lain:** [AzisCode412 GitHub](https://github.com/AzisCode412) **Note:** Kirim pesan melalui profil atau ajukan Request Access.
+* **Linkedln:** [Zen Al Azis Linkedln](https://linkedin.com/in/zenalazis).
 
 GitHub: Kirim pesan melalui profil atau ajukan Request Access.
 
